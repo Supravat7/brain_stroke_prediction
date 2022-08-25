@@ -1,1 +1,1 @@
-# brain_stroke_prediction
+# To predict whether the patient get brain stroke or not.
